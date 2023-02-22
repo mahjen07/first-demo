@@ -5,3 +5,7 @@ This is second line after edit
 To Validate the Diff, so we know the tool
 
 To add the Branching
+
+This is to identify the conflicts
+
+This is another conflicts to know
