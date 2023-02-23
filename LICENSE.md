@@ -8,4 +8,4 @@ To add the Branching
 
 This is to identify the conflicts
 
-This is another conflicts to know
+THis is from Master piece
