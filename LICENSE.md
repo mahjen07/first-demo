@@ -6,6 +6,10 @@ To Validate the Diff, so we know the tool
 
 To add the Branching
 
-This is to identify the conflicts
 
+
+<<<<<<< HEAD
 THis is from Master piece
+=======
+Thi is going to cause a problem
+>>>>>>> newbad
